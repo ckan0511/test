@@ -13,6 +13,7 @@ struct Second {
 xxx
   123456789
   abc123ABC
+  hk
   build() {
     Column() {
       Flex() {
