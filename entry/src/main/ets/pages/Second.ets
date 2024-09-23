@@ -10,8 +10,7 @@ struct Second {
   @State start :boolean=false
   @State reverse:boolean=false
   @State iterations:number=1
-xxx
-  ppp
+
   build() {
     Column() {
       Flex() {
