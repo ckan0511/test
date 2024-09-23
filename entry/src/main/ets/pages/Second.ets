@@ -12,6 +12,7 @@ struct Second {
   @State iterations:number=1
 xxx
   123456789
+  abc
   build() {
     Column() {
       Flex() {
