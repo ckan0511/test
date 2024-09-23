@@ -1,0 +1,22 @@
+{
+  "modulePathMap": {
+    "entry": "D:\\Data\\Kan\\Personal\\Leisure\\Programming\\DevEcoStudio\\ArkTS\\HelloWorld\\entry"
+  },
+  "compileMode": "esmodule",
+  "projectRootPath": "D:\\Data\\Kan\\Personal\\Leisure\\Programming\\DevEcoStudio\\ArkTS\\HelloWorld",
+  "nodeModulesPath": "D:\\Data\\Kan\\Personal\\Leisure\\Programming\\DevEcoStudio\\ArkTS\\HelloWorld\\entry\\.preview\\default\\intermediates\\loader_out\\default\\node_modules",
+  "byteCodeHarInfo": {},
+  "declarationEntry": [],
+  "moduleName": "entry",
+  "hspNameOhmMap": {},
+  "harNameOhmMap": {},
+  "packageManagerType": "ohpm",
+  "compileEntry": [],
+  "otherCompileFiles": [],
+  "dynamicImportLibInfo": {},
+  "routerMap": [],
+  "hspResourcesMap": {},
+  "anBuildOutPut": "D:\\Data\\Kan\\Personal\\Leisure\\Programming\\DevEcoStudio\\ArkTS\\HelloWorld\\entry\\.preview\\default\\intermediates\\loader_out\\default\\an\\arm64-v8a",
+  "anBuildMode": "type",
+  "buildConfigPath": ".preview\\config\\buildConfig.json"
+}
