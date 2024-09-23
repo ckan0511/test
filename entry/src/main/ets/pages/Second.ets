@@ -11,7 +11,7 @@ struct Second {
   @State reverse:boolean=false
   @State iterations:number=1
 xxx
-  123
+  123456
   build() {
     Column() {
       Flex() {
