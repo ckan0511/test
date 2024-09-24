@@ -10,10 +10,7 @@ struct Second {
   @State start :boolean=false
   @State reverse:boolean=false
   @State iterations:number=1
-xxx
-  123456789
-  abc123ABC
-  hk
+Fr 408 1
   build() {
     Column() {
       Flex() {
