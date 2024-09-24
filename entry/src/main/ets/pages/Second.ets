@@ -10,7 +10,7 @@ struct Second {
   @State start :boolean=false
   @State reverse:boolean=false
   @State iterations:number=1
-Fr 408 1
+Fr South Station 1
   build() {
     Column() {
       Flex() {
